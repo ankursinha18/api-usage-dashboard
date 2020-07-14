@@ -1,0 +1,45 @@
+{
+ "usageByInterval": [
+  {
+   "usageDate": "2020-01-01",
+   "totalUsage": "10"
+  },
+  {
+   "usageDate": "2020-01-02",
+   "totalUsage": "10"
+  },
+  {
+   "usageDate": "2020-01-03",
+   "totalUsage": "15"
+  },
+  {
+   "usageDate": "2020-01-04",
+   "totalUsage": "10"
+  },
+  {
+   "usageDate": "2020-01-05",
+   "totalUsage": "5"
+  },
+  {
+   "usageDate": "2020-01-06",
+   "totalUsage": "10"
+  },
+  {
+   "usageDate": "2020-01-07",
+   "totalUsage": "10"
+  },
+  {
+   "usageDate": "2020-01-08",
+   "totalUsage": "20"
+  },
+  {
+   "usageDate": "2020-01-09",
+   "totalUsage": "10"
+  },
+  {
+   "usageDate": "2020-01-10",
+   "totalUsage": "10"
+  }
+ ],
+ "lastUpdated": "2020-07-07T19:33:33.995Z"
+}

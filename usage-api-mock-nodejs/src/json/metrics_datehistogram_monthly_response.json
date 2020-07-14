@@ -1,0 +1,57 @@
+{
+    "usageByInterval": [
+        {
+            "usageDate": "2020-06-01",
+            "totalUsage": "10"
+        },
+        {
+            "usageDate": "2020-05-01",
+            "totalUsage": "10"
+        },
+        {
+            "usageDate": "2020-04-01",
+            "totalUsage": "15"
+        },
+        {
+            "usageDate": "2020-03-01",
+            "totalUsage": "0"
+        },
+        {
+            "usageDate": "2020-02-01",
+            "totalUsage": "5"
+        },
+        {
+            "usageDate": "2020-01-01",
+            "totalUsage": "0"
+        },
+        {
+            "usageDate": "2019-12-01",
+            "totalUsage": "5"
+        },
+        {
+            "usageDate": "2019-11-01",
+            "totalUsage": "10"
+        },
+        {
+            "usageDate": "2019-10-01",
+            "totalUsage": "2"
+        },
+        {
+            "usageDate": "2019-09-01",
+            "totalUsage": "10"
+        },
+        {
+            "usageDate": "2019-08-01",
+            "totalUsage": "8"
+        },
+        {
+            "usageDate": "2019-07-01",
+            "totalUsage": "6"
+        },
+        {
+            "usageDate": "2019-06-01",
+            "totalUsage": "0"
+        }
+    ],
+    "lastUpdated": "2020-07-07T19:33:33.995Z"
+}

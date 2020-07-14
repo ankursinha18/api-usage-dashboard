@@ -1,0 +1,57 @@
+{
+ "apiProductId": "1",
+ "apiProductName": "FS Estimates",
+ "usageByInterval": [
+  {
+   "usageDate": "2020-01-01",
+   "totalUsage": "10",
+   "cumulativeUsage": "10"
+  },
+  {
+   "usageDate": "2020-01-02",
+   "totalUsage": "10",
+   "cumulativeUsage": "20"
+  },
+  {
+   "usageDate": "2020-01-03",
+   "totalUsage": "15",
+   "cumulativeUsage": "35"
+  },
+  {
+   "usageDate": "2020-01-04",
+   "totalUsage": "10",
+   "cumulativeUsage": "45"
+  },
+  {
+   "usageDate": "2020-01-05",
+   "totalUsage": "5",
+   "cumulativeUsage": "50"
+  },
+  {
+   "usageDate": "2020-01-06",
+   "totalUsage": "10",
+   "cumulativeUsage": "60"
+  },
+  {
+   "usageDate": "2020-01-07",
+   "totalUsage": "10",
+   "cumulativeUsage": "70"
+  },
+  {
+   "usageDate": "2020-01-08",
+   "totalUsage": "20",
+   "cumulativeUsage": "90"
+  },
+  {
+   "usageDate": "2020-01-09",
+   "totalUsage": "10",
+   "cumulativeUsage": "100"
+  },
+  {
+   "usageDate": "2020-01-10",
+   "totalUsage": "10",
+   "cumulativeUsage": "110"
+  }
+ ],
+ "lastUpdated": "2020-07-07T19:33:33.995Z"
+}

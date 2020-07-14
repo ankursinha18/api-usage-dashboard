@@ -1,0 +1,31 @@
+{
+    "usageByProduct": [
+        {
+            "apiProductId": "1",
+            "apiProductName": "FS Estimates",
+            "totalUsage": "3000"
+        },
+        {
+            "apiProductId": "2",
+            "apiProductName": "FS Fundamentals",
+            "totalUsage": "4500"
+        },
+        {
+            "apiProductId": "3",
+            "apiProductName": "FS Prices",
+            "totalUsage": "2000"
+        },
+        {
+            "apiProductId": "4",
+            "apiProductName": "Symbology",
+            "totalUsage": "1500"
+        },
+        {
+            "apiProductId": "5",
+            "apiProductName": "PA Engine",
+            "totalUsage": "1900"
+        }
+
+    ],
+    "lastUpdated": "2020-07-07T19:33:33.995Z"
+}

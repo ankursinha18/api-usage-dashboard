@@ -1,0 +1,25 @@
+{
+ "products": [
+  {
+   "apiProductId": "1",
+   "apiProductName": "FS Estimates"
+  },
+  {
+   "apiProductId": "2",
+   "apiProductName": "FS Fundamentals"
+  },
+  {
+   "apiProductId": "3",
+   "apiProductName": "FS Prices"
+  },
+  {
+   "apiProductId": "4",
+   "apiProductName": "Symbology"
+  },
+  {
+   "apiProductId": "5",
+   "apiProductName": "PA Engine"
+  }
+ ],
+ "lastUpdated": "2020-07-08T19:33:33.995Z"
+}
