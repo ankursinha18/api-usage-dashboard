@@ -1,5 +1,5 @@
 {
-  "name": "usage-api-mock-nodejs",
+  "name": "usageapimockapp",
   "version": "1.0.0",
   "description": "This is a Mock Usage API built in Node JS & Express",
   "main": "app.js",
@@ -15,5 +15,8 @@
     "express": "^4.17.1",
     "helmet": "^3.23.3",
     "morgan": "^1.10.0"
+  },
+  "engines": {
+    "node": "10.14.1"
   }
 }

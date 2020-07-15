@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 
 // Defining the express App
 const app = express();
-const port = process.env.port || 3000;
+app.set('port', ( process.env.PORT || 5000));
 
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
@@ -14,6 +14,6 @@ app.use('/', require('./routes/usage-api'));
 
 
 // Starting the server
-app.listen(port, () => {
-    console.log('Server is listening on on port:', port);
+app.listen(app.get('port'), () => {
+    console.log('Server is listening on on port:', app.get('port'));
 });
